@@ -1,0 +1,25 @@
+/* TODO Add site wide styles */
+.movie-list-container {
+    width: 100px;
+    height: 150px;
+}
+
+.reviews {
+    border: 1px solid grey;
+}
+
+.poster {
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black
+}
+
+
+.movie {
+    margin: 30px;
+    flex-direction: row;
+}
+
+.movie-info {
+    margin-left: 20px;
+}
